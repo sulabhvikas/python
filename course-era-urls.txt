@@ -1,0 +1,14 @@
+functions: http://www.codeskulptor.org/#user38_sRnVoQEafd_0.py
+
+Mini-Project rpsls: 
+http://www.codeskulptor.org/#user38_NFRAbWtChw_4.py
+http://www.codeskulptor.org/#user38_jy5dfc5nnYAfhe9.py
+
+Guess the number:
+http://www.codeskulptor.org/#user38_pjjU5lHhmp_0.py
+http://www.codeskulptor.org/#user38_pjjU5lHhmp_1.py
+http://www.codeskulptor.org/#user38_pjjU5lHhmp_5.py
+
+Stop_watch:
+http://www.codeskulptor.org/#user38_6VtFuSOQcD_0.py
+http://www.codeskulptor.org/#user38_SXLqRkHfZ3IfRpc.py
